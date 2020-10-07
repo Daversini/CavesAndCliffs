@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "cavesandcliffs:copper_ore"
+  },
+  "result": "cavesandcliffs:copper_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

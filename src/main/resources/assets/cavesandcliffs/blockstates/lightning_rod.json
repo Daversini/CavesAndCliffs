@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "cavesandcliffs:block/lightning_rod" },
+    "facing=south": { "model": "cavesandcliffs:block/lightning_rod", "y":  180},
+    "facing=west": { "model": "cavesandcliffs:block/lightning_rod", "y":  270},
+    "facing=east": { "model": "cavesandcliffs:block/lightning_rod", "y":  90}
+  }
+}

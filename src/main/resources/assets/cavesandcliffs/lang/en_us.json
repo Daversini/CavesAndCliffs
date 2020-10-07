@@ -1,0 +1,12 @@
+{
+  "itemGroup.cavesAndCliffsTab": "Caves&Cliffs Mod",
+
+  "block.cavesandcliffs.copper_ore": "Copper Ore",
+  "block.cavesandcliffs.copper_block": "Copper Block",
+  "block.cavesandcliffs.lightning_rod": "Lightning Rod",
+
+  "item.cavesandcliffs.copper_ingot": "Copper Ingot",
+  "item.cavesandcliffs.warden_spawn_egg": "Warden Spawn Egg",
+
+  "entity.cavesandcliffs.warden": "Warden"
+}

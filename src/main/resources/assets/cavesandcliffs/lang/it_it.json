@@ -1,0 +1,12 @@
+{
+  "itemGroup.cavesAndCliffsTab": "Caves&Cliffs Mod",
+
+  "block.cavesandcliffs.copper_ore": "Rame grezzo",
+  "block.cavesandcliffs.copper_block": "Blocco di rame",
+  "block.cavesandcliffs.lightning_rod": "Barra parafulmini",
+
+  "item.cavesandcliffs.copper_ingot": "Lingotto di rame",
+  "item.cavesandcliffs.warden_spawn_egg": "Uovo generatore di Warden",
+
+  "entity.cavesandcliffs.warden": "Warden"
+}

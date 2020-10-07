@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " b ",
+    " i ",
+    " i "
+  ],
+  "key":
+  {
+    "b":
+    {
+      "item": "cavesandcliffs:copper_block"
+    },
+    "i":
+    {
+      "item": "cavesandcliffs:copper_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "cavesandcliffs:lightning_rod",
+    "count": 1
+  }
+}
